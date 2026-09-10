@@ -1,0 +1,24 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/Burhanverse/plugin/main/KisskhProvider.cs3",
+        "status": 1,
+        "version": 23,
+        "name": "KisskhProvider",
+        "internalName": "KisskhProvider",
+        "authors": [
+            "Hexated,Peerless"
+        ],
+        "fileSize": 39233,
+        "repositoryUrl": "https://github.com/Burhanverse/plugin",
+        "language": "en",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.co&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-c4fba40211c1304b3bd4e9e9e94748787e754b19e86b68f12bc338494481c26a"
+    }
+]
