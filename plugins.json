@@ -24,13 +24,13 @@
     {
         "url": "https://raw.githubusercontent.com/Burhanverse/plugin/main/AsiaFlix.cs3",
         "status": 1,
-        "version": 5,
+        "version": 6,
         "name": "AsiaFlix",
         "internalName": "AsiaFlix",
         "authors": [
             "Xie"
         ],
-        "fileSize": 41449,
+        "fileSize": 51507,
         "repositoryUrl": "https://github.com/Burhanverse/plugin",
         "language": "en",
         "tvTypes": [
@@ -42,6 +42,6 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=asiaflix.org&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-8dbfec0fc3c81d1a8716a26bedb97002846c13a20bd23be263025def44e0eaa9"
+        "fileHash": "sha256-d40e0e6dd467d2108fa8cf55ab65738354700f88f4a278acbca915a3c954b75d"
     }
 ]
