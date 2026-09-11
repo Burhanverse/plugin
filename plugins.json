@@ -24,13 +24,13 @@
     {
         "url": "https://raw.githubusercontent.com/Burhanverse/plugin/main/AsiaFlix.cs3",
         "status": 1,
-        "version": 7,
+        "version": 8,
         "name": "AsiaFlix",
         "internalName": "AsiaFlix",
         "authors": [
             "Xie"
         ],
-        "fileSize": 51506,
+        "fileSize": 51633,
         "repositoryUrl": "https://github.com/Burhanverse/plugin",
         "language": "en",
         "tvTypes": [
@@ -41,18 +41,18 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=asiaflix.org&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-dbd2a16727b71fc2bd6650ea8ac49b4c272df6139c3aee62870493fe5df412e4"
+        "fileHash": "sha256-e35800597111cfe6df9145c97660b31a43af0c89a6c87aea81525e383e6c8a76"
     },
     {
         "url": "https://raw.githubusercontent.com/Burhanverse/plugin/main/KisskhOne.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "kisskh.one",
         "internalName": "KisskhOne",
         "authors": [
             "Xie"
         ],
-        "fileSize": 52204,
+        "fileSize": 52303,
         "repositoryUrl": "https://github.com/Burhanverse/plugin",
         "language": "en",
         "tvTypes": [
@@ -63,6 +63,6 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.one&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-c32e601dcdefc0d25313459dfa4e5c083ef3134da83db584afb9a65bbe9a1426"
+        "fileHash": "sha256-60a2a1fab196168ae1f0ec6b3cec247513dd08098d34161defb9006b335625e3"
     }
 ]
