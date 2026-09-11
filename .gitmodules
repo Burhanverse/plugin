@@ -1,3 +1,7 @@
 [submodule "KisskhProvider"]
 	path = KisskhProvider
 	url = https://github.com/Burhanverse/KissKH.git
+
+[submodule "AsiaFlix"]
+	path = AsiaFlix
+	url = https://github.com/Burhanverse/AsiaFlix.git
