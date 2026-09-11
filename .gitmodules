@@ -1,0 +1,3 @@
+[submodule "KisskhProvider"]
+	path = KisskhProvider
+	url = https://github.com/Burhanverse/KissKH.git
