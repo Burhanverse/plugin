@@ -2,7 +2,7 @@
     {
         "url": "https://raw.githubusercontent.com/Burhanverse/plugin/main/KisskhProvider.cs3",
         "status": 1,
-        "version": 26,
+        "version": 27,
         "name": "KisskhProvider",
         "internalName": "KisskhProvider",
         "authors": [
@@ -19,6 +19,6 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.co&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-322f6f03d5b9c69d757a8b574ec27a5bdb98d4c743646d0dfcfd4542d391f46d"
+        "fileHash": "sha256-131fdfc705cc6288d469bc6ed7f3ff4e168c3d60afce0edebcf2cb3890382cb6"
     }
 ]
