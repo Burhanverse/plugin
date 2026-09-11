@@ -8,7 +8,7 @@
         "authors": [
             "Xie,phisher98,Hexated,Peerless"
         ],
-        "fileSize": 39394,
+        "fileSize": 39070,
         "repositoryUrl": "https://github.com/Burhanverse/plugin",
         "language": "en",
         "tvTypes": [
@@ -19,6 +19,6 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.co&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-74804865032dc31a8e191991eed06916edf4e1d7bd8444e129dda0530d4f0a06"
+        "fileHash": "sha256-322f6f03d5b9c69d757a8b574ec27a5bdb98d4c743646d0dfcfd4542d391f46d"
     }
 ]
