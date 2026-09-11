@@ -42,5 +42,27 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=asiaflix.org&sz=%size%",
         "apiVersion": 1,
         "fileHash": "sha256-dbd2a16727b71fc2bd6650ea8ac49b4c272df6139c3aee62870493fe5df412e4"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Burhanverse/plugin/main/KisskhOne.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "kisskh.one",
+        "internalName": "KisskhOne",
+        "authors": [
+            "Xie"
+        ],
+        "fileSize": 52204,
+        "repositoryUrl": "https://github.com/Burhanverse/plugin",
+        "language": "en",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.one&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-c32e601dcdefc0d25313459dfa4e5c083ef3134da83db584afb9a65bbe9a1426"
     }
 ]
