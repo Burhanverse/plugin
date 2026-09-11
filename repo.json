@@ -1,7 +1,7 @@
 {
-  "name": "KissKH - Repo",
-  "iconUrl": "https://raw.githubusercontent.com/Burhanverse/TVVVV/refs/heads/main/Icons/RepoIcon.png",
-  "description": "KissKH Repository",
+  "name": "Xie's Repo",
+  "iconUrl": "https://raw.githubusercontent.com/Burhanverse/assets/refs/heads/main/icon.jpg",
+  "description": "Xie's plugins",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/Burhanverse/plugin/refs/heads/main/plugins.json"
