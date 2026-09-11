@@ -64,5 +64,27 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.one&sz=%size%",
         "apiVersion": 1,
         "fileHash": "sha256-f71cc753e3facd9a80777666a3138b19a583748cf89387bef57520839e2bff9d"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Burhanverse/plugin/main/KissAsian.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "KissAsian",
+        "internalName": "KissAsian",
+        "authors": [
+            "Xie"
+        ],
+        "fileSize": 41155,
+        "repositoryUrl": "https://github.com/Burhanverse/plugin",
+        "language": "en",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kissasian.cam&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-d133d2960ef966c878de229329ac5ee3f8d27d4f80bea843351024991900d9da"
     }
 ]

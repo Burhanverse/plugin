@@ -9,3 +9,7 @@
 [submodule "KisskhOne"]
 	path = KisskhOne
 	url = https://github.com/Burhanverse/KisskhOne.git
+
+[submodule "KissAsian"]
+	path = KissAsian
+	url = https://github.com/Burhanverse/KissAsian.git
