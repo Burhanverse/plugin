@@ -2,13 +2,13 @@
     {
         "url": "https://raw.githubusercontent.com/Burhanverse/plugin/main/KisskhProvider.cs3",
         "status": 1,
-        "version": 30,
+        "version": 31,
         "name": "KisskhProvider",
         "internalName": "KisskhProvider",
         "authors": [
             "Xie,phisher98,Hexated,Peerless"
         ],
-        "fileSize": 52864,
+        "fileSize": 53236,
         "repositoryUrl": "https://github.com/Burhanverse/plugin",
         "language": "en",
         "tvTypes": [
@@ -19,7 +19,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.co&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-5aac748dd953c2d26448b2be0549587dfb407c670b0d2ce5836155a2a756018f"
+        "fileHash": "sha256-b1f411f22be472f65b758d22e951b5d7aa919397e3e7162b858aa406f4ccb577"
     },
     {
         "url": "https://raw.githubusercontent.com/Burhanverse/plugin/main/AsiaFlix.cs3",
