@@ -2,13 +2,13 @@
     {
         "url": "https://raw.githubusercontent.com/Burhanverse/plugin/main/AsiaFlix.cs3",
         "status": 1,
-        "version": 12,
+        "version": 13,
         "name": "AsiaFlix",
         "internalName": "AsiaFlix",
         "authors": [
             "Xie"
         ],
-        "fileSize": 57322,
+        "fileSize": 58536,
         "repositoryUrl": "https://github.com/Burhanverse/plugin",
         "language": "en",
         "tvTypes": [
@@ -19,18 +19,18 @@
         ],
         "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_EBgvLPQZMD5YuyJypuF_xNzNfX1a0DycnUKCpaJmnfAzSA3R9AvDgkU&s=10",
         "apiVersion": 1,
-        "fileHash": "sha256-64488a4375e7a11d8eab253d1662ac6a5199fd72fa01285ecc8b96ad718f4764"
+        "fileHash": "sha256-fa16796b2793fdbc41123005265771038dfff370d77704a159ee2f436c14fe07"
     },
     {
         "url": "https://raw.githubusercontent.com/Burhanverse/plugin/main/KisskhOne.cs3",
         "status": 1,
-        "version": 6,
+        "version": 7,
         "name": "kisskh.one",
         "internalName": "KisskhOne",
         "authors": [
             "Xie"
         ],
-        "fileSize": 58408,
+        "fileSize": 59396,
         "repositoryUrl": "https://github.com/Burhanverse/plugin",
         "language": "en",
         "tvTypes": [
@@ -41,18 +41,18 @@
         ],
         "iconUrl": "https://www.latestmodapks.com/wp-content/uploads/2023/04/SdbvoHHyuA.png",
         "apiVersion": 1,
-        "fileHash": "sha256-bc9429582307a54f81b3974cda4d60e99e22343bc71bf789ab859a8c963d443a"
+        "fileHash": "sha256-f0542a0030dcae4441bf49d18c564faeacae6d821e5cfe62ca805ac875340a6d"
     },
     {
         "url": "https://raw.githubusercontent.com/Burhanverse/plugin/main/KissAsian.cs3",
         "status": 1,
-        "version": 9,
+        "version": 10,
         "name": "KissAsian",
         "internalName": "KissAsian",
         "authors": [
             "Xie"
         ],
-        "fileSize": 57845,
+        "fileSize": 58974,
         "repositoryUrl": "https://github.com/Burhanverse/plugin",
         "language": "en",
         "tvTypes": [
@@ -63,6 +63,6 @@
         ],
         "iconUrl": "https://play-lh.googleusercontent.com/71IVsX7a1a9j3YswicGhx1fEM_SogsmyftUzG0MzZy4jHoWnCb48JFs15FMNbYWpAyzvnYBoPshG9rkk1VcUOw",
         "apiVersion": 1,
-        "fileHash": "sha256-695e069223c047e0f83d75723bf9b4325292df84d9fa9d8aa197fe66cdfaa2ee"
+        "fileHash": "sha256-e890d9bfc0a6aea3bd63ba16697a027af47edf98b0ab1ae681da48a4fbf6d598"
     }
 ]
