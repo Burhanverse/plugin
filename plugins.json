@@ -68,13 +68,13 @@
     {
         "url": "https://raw.githubusercontent.com/Burhanverse/plugin/main/KissAsian.cs3",
         "status": 1,
-        "version": 5,
+        "version": 7,
         "name": "KissAsian",
         "internalName": "KissAsian",
         "authors": [
             "Xie"
         ],
-        "fileSize": 45537,
+        "fileSize": 50311,
         "repositoryUrl": "https://github.com/Burhanverse/plugin",
         "language": "en",
         "tvTypes": [
@@ -85,6 +85,6 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=kissasian.cam&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-64b76b04f5ff3bd2efd30690b9b74015da3e9e1496347ef6329270b821d5ff99"
+        "fileHash": "sha256-0d13c04b42af9109dd89b31eccca4aec07972f219e98128aba3172c875c2eff0"
     }
 ]
