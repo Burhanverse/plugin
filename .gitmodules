@@ -1,6 +1,6 @@
-[submodule "KisskhProvider"]
-	path = KisskhProvider
-	url = https://github.com/Burhanverse/KissKH.git
+[submodule "xies-catalog"]
+	path = xies-catalog
+	url = https://github.com/Burhanverse/catalog.git
 
 [submodule "AsiaFlix"]
 	path = AsiaFlix

@@ -1,27 +1,5 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/Burhanverse/plugin/main/KisskhProvider.cs3",
-        "status": 1,
-        "version": 33,
-        "name": "KisskhProvider",
-        "internalName": "KisskhProvider",
-        "authors": [
-            "Xie,phisher98,Hexated,Peerless"
-        ],
-        "fileSize": 41782,
-        "repositoryUrl": "https://github.com/Burhanverse/plugin",
-        "language": "en",
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Anime",
-            "Movie"
-        ],
-        "iconUrl": "https://www.latestmodapks.com/wp-content/uploads/2023/04/SdbvoHHyuA.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-aff59c13c69aab16246a2dec88e8e1c971e69d4a839033437debf0d0e1db2b70"
-    },
-    {
         "url": "https://raw.githubusercontent.com/Burhanverse/plugin/main/AsiaFlix.cs3",
         "status": 1,
         "version": 11,
@@ -61,7 +39,7 @@
             "Anime",
             "Movie"
         ],
-        "iconUrl": "https://i.imgur.com/gAf2LB7.png",
+        "iconUrl": "https://www.latestmodapks.com/wp-content/uploads/2023/04/SdbvoHHyuA.png",
         "apiVersion": 1,
         "fileHash": "sha256-f71cc753e3facd9a80777666a3138b19a583748cf89387bef57520839e2bff9d"
     },
