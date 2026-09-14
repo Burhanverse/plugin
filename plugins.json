@@ -64,5 +64,27 @@
         "iconUrl": "https://play-lh.googleusercontent.com/71IVsX7a1a9j3YswicGhx1fEM_SogsmyftUzG0MzZy4jHoWnCb48JFs15FMNbYWpAyzvnYBoPshG9rkk1VcUOw",
         "apiVersion": 1,
         "fileHash": "sha256-d22a46fd144f84fb18827f908bbf4006c5df7a9f3efcd47bfec433f12bb697fa"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Burhanverse/plugin/main/KissKH.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "KissKH",
+        "internalName": "KissKH",
+        "authors": [
+            "Xie"
+        ],
+        "fileSize": 41145,
+        "repositoryUrl": "https://github.com/Burhanverse/plugin",
+        "language": "en",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "iconUrl": "https://www.latestmodapks.com/wp-content/uploads/2023/04/SdbvoHHyuA.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-faec754b78b152df8da23873d15f46a8f0c59e50303f3aa191139b7fbf7830ef"
     }
 ]

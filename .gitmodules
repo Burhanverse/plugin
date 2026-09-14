@@ -13,3 +13,7 @@
 [submodule "KissAsian"]
 	path = KissAsian
 	url = https://github.com/Burhanverse/KissAsian.git
+
+[submodule "KissKH"]
+	path = KissKH
+	url = https://github.com/Burhanverse/KissKH.git
