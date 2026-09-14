@@ -68,13 +68,13 @@
     {
         "url": "https://raw.githubusercontent.com/Burhanverse/plugin/main/KissKH.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "KissKH",
         "internalName": "KissKH",
         "authors": [
             "Xie"
         ],
-        "fileSize": 47968,
+        "fileSize": 48457,
         "repositoryUrl": "https://github.com/Burhanverse/plugin",
         "language": "en",
         "tvTypes": [
@@ -85,6 +85,6 @@
         ],
         "iconUrl": "https://www.latestmodapks.com/wp-content/uploads/2023/04/SdbvoHHyuA.png",
         "apiVersion": 1,
-        "fileHash": "sha256-94f4672d52935e5d6beb88b9e866fab8fdd088b35057927b18224f43d66d8a36"
+        "fileHash": "sha256-7595cc1061c93e0dd2ffc3b985fd1bce803826346fa1c753fa3cc5c47deb6f10"
     }
 ]
