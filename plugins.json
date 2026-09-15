@@ -90,13 +90,13 @@
     {
         "url": "https://raw.githubusercontent.com/Burhanverse/plugin/main/OneTouchTV.cs3",
         "status": 1,
-        "version": 2,
+        "version": 5,
         "name": "OneTouchTV",
         "internalName": "OneTouchTV",
         "authors": [
             "Xie"
         ],
-        "fileSize": 15250,
+        "fileSize": 97387,
         "repositoryUrl": "https://github.com/Burhanverse/plugin",
         "language": "en",
         "tvTypes": [
@@ -107,6 +107,6 @@
         ],
         "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_EBgvLPQZMD5YuyJypuF_xNzNfX1a0DycnUKCpaJmnfAzSA3R9AvDgkU&s=10",
         "apiVersion": 1,
-        "fileHash": "sha256-4b32bab49615164c64d4ac9e8e3750e06d58498ffda52ef3306f95b2e6c57d6d"
+        "fileHash": "sha256-ec99df146e37d818a7dc324a04f32f77d3cf69cdef96f543e591dd641ebc08b7"
     }
 ]
