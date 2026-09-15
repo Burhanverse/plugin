@@ -46,13 +46,13 @@
     {
         "url": "https://raw.githubusercontent.com/Burhanverse/plugin/main/KissAsian.cs3",
         "status": 1,
-        "version": 13,
+        "version": 14,
         "name": "KissAsian",
         "internalName": "KissAsian",
         "authors": [
             "Xie"
         ],
-        "fileSize": 60730,
+        "fileSize": 66953,
         "repositoryUrl": "https://github.com/Burhanverse/plugin",
         "language": "en",
         "tvTypes": [
@@ -63,7 +63,7 @@
         ],
         "iconUrl": "https://play-lh.googleusercontent.com/71IVsX7a1a9j3YswicGhx1fEM_SogsmyftUzG0MzZy4jHoWnCb48JFs15FMNbYWpAyzvnYBoPshG9rkk1VcUOw",
         "apiVersion": 1,
-        "fileHash": "sha256-f64faaa85987a2d78aa1b96f10a7d2fb075f851f812c01c2d4c19360d74dd1d1"
+        "fileHash": "sha256-8af05230572041d083af5672d468466fe48591956fe3d08e8e825ebd856e47da"
     },
     {
         "url": "https://raw.githubusercontent.com/Burhanverse/plugin/main/KissKH.cs3",
