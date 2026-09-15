@@ -2,18 +2,6 @@
 	path = xies-catalog
 	url = https://github.com/Burhanverse/catalog.git
 
-[submodule "AsiaFlix"]
-	path = AsiaFlix
-	url = https://github.com/Burhanverse/AsiaFlix.git
-
-[submodule "KisskhOne"]
-	path = KisskhOne
-	url = https://github.com/Burhanverse/KisskhOne.git
-
-[submodule "KissAsian"]
-	path = KissAsian
-	url = https://github.com/Burhanverse/KissAsian.git
-
-[submodule "KissKH"]
-	path = KissKH
-	url = https://github.com/Burhanverse/KissKH.git
+[submodule "extensions"]
+	path = extensions
+	url = https://github.com/Burhanverse/extensions.git
