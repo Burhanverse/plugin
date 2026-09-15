@@ -68,13 +68,13 @@
     {
         "url": "https://raw.githubusercontent.com/Burhanverse/plugin/main/KissKH.cs3",
         "status": 1,
-        "version": 7,
+        "version": 8,
         "name": "KissKH",
         "internalName": "KissKH",
         "authors": [
             "Xie"
         ],
-        "fileSize": 48481,
+        "fileSize": 51318,
         "repositoryUrl": "https://github.com/Burhanverse/plugin",
         "language": "en",
         "tvTypes": [
@@ -85,7 +85,7 @@
         ],
         "iconUrl": "https://www.latestmodapks.com/wp-content/uploads/2023/04/SdbvoHHyuA.png",
         "apiVersion": 1,
-        "fileHash": "sha256-1fe494f9def633c602fe227ac6c33049b028c68c0ac3e33d26be4c8b4a056ee9"
+        "fileHash": "sha256-875dce307269d425b3ab57462cf1e8b199815ab84d515742cac9fc6e428d873b"
     },
     {
         "url": "https://raw.githubusercontent.com/Burhanverse/plugin/main/OneTouchTV.cs3",
